@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Numeric Base Converter</title>
+</head>
+
+<body>
+    <div id="bloco">
+        <form id="conversor">
+            <div class="formulario">
+                <label for="decimal">Decimal: </label>
+                <div>
+                    <input type="text" name="formulario" id="decimal" onkeydown="return start(event, 'decimal')">
+                </div>
+            </div>
+            <div class="formulario">
+                <label for="binario">Binário: </label>
+                <div>
+                    <input type="text" name="formulario" id="binario" onkeydown="return start(event, 'binario')">
+                </div>
+            </div>
+            <div class="formulario">
+                <label for="octal">Octal: </label>
+                <div>
+                    <input type="text" name="formulario" id="octal" onkeydown="return start(event, 'octal')">
+                </div>
+            </div>
+            <div class="formulario">
+                <label for="hexadecimal">Hexadecimal: </label>
+                <div>
+                    <input type="text" name="formulario" id="hexadecimal"
+                        onkeydown="return start(event, 'hexadecimal')">
+                </div>
+            </div>
+        </form>
+</body>
+
+</html>
