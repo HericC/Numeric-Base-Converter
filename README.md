@@ -7,17 +7,16 @@
 Simple numeric converter made in JavaScript.
 
 ### Installation
-Clone the GitHub Repository
+Clone the GitHub Repository.
 ```
 git clone https://github.com/HericC/Numeric-Base-Converter.git
 ```
 Pure HTML and CSS, after cloning the repository, access the index.html through the browser, or drag the file to the browser.
 
 ### Note
-completed 08/06/2019.
+Completed 06/08/2019.
 
 Refactoring the js script soon.
 
 ### License
-
-This project is under the MIT license - see the [LICENSE.md](<https://github.com/HericC/Numeric-Base-Converter/blob/master/LICENSE>) file for details
+This project is under the MIT license - see the [LICENSE.md](<https://github.com/HericC/Numeric-Base-Converter/blob/master/LICENSE>) file for details.
