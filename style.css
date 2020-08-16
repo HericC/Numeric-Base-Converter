@@ -2,7 +2,7 @@ body {
     margin: 0;
 }
 
-#bloco {
+#main {
     position: absolute;
     top: 0px;
     bottom: 0px;
@@ -15,7 +15,7 @@ body {
     background-color: rgb(235, 235, 235);
 }
 
-#conversor {
+#converter {
     position: absolute;
     top: 0px;
     bottom: 0px;
@@ -25,18 +25,18 @@ body {
     padding: 30px;
 }
 
-.formulario {
+.fields {
     margin: 10px;
 }
 
-.formulario label {
+.fields label {
     float: left;
     text-align: right;
     margin: 8px;
     width: 100px;
 }
 
-.formulario input {
+.fields input {
     height: 20px;
     width: 300px;
     padding: 6px 12px;

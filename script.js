@@ -1,7 +1,7 @@
 function start(event_key, name_numeric_base) {
     const $inputs = [
         window.document.querySelector('#decimal'),
-        window.document.querySelector('#binario'),
+        window.document.querySelector('#binary'),
         window.document.querySelector('#octal'),
         window.document.querySelector('#hexadecimal')];
 
