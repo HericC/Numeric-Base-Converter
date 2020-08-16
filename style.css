@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+
+#bloco {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: 100px;
+    height: 250px;
+    width: 550px;
+    border: 1px solid rgb(200, 200, 200);
+    background-color: rgb(235, 235, 235);
+}
+
+#conversor {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    padding: 30px;
+}
+
+.formulario {
+    margin: 10px;
+}
+
+.formulario label {
+    float: left;
+    text-align: right;
+    margin: 8px;
+    width: 100px;
+}
+
+.formulario input {
+    height: 20px;
+    width: 300px;
+    padding: 6px 12px;
+    border: 1px solid rgb(180, 180, 180);
+    border-radius: 5px;
+}
